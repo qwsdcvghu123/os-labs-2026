@@ -1,0 +1,14 @@
+==> Linux/Ubuntu/info.txt <==
+Апрель 2026 (26.04 LTS)
+
+==> Linux/Debian/info.txt <==
+Июнь 2025 (версия 13 "Trixie")
+
+==> Linux/Fedora/info.txt <==
+Апрель 2026 (версия 44)
+
+==> Linux/Arch/info.txt <==
+Обновляется непрерывно (rolling release)
+
+==> Linux/CentOS/info.txt <==
+Май 2025 (CentOS Stream 10)
